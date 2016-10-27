@@ -1,3 +1,5 @@
+// this file is used to register pe class
+
 var result;
 var jxbid;
 var result = {success:false};
